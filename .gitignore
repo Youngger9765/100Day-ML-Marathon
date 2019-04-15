@@ -1,0 +1,5 @@
+# 忽略 secret.yml 檔案
+secret.yml
+
+
+/data
